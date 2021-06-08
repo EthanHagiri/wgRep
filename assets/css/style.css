@@ -2,24 +2,24 @@
 
 @font-face {
     font-family: 'Montserrat-Light';
-  src: url("../assets/fonts/Montserrat-Light.eot");
-  src: local("☺"), url("../assets/fonts/Montserrat-Light.woff") format("woff"), url("../assets/fonts/Montserrat-Light.ttf") format("truetype"), url("../assets/fonts/Montserrat-Light.svg") format("svg");
+  src: url("../fonts/Montserrat-Light.eot");
+  src: local("☺"), url("../fonts/Montserrat-Light.woff") format("woff"), url("../fonts/Montserrat-Light.ttf") format("truetype"), url("../fonts/Montserrat-Light.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
     font-family: 'Montserrat-Regular';
-  src: url("assets/fonts/Montserrat-Regular.eot");
-  src: local("☺"), url("assets/fonts/Montserrat-Regular.woff") format("woff"), url("assets/fonts/Montserrat-Regular.ttf") format("truetype"), url("assets/fonts/Montserrat-Regular.svg") format("svg");
+  src: url("../fonts/Montserrat-Regular.eot");
+  src: local("☺"), url("../fonts/Montserrat-Regular.woff") format("woff"), url("../fonts/Montserrat-Regular.ttf") format("truetype"), url("../fonts/Montserrat-Regular.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
     font-family: 'Spectral-Regular';
-  src: url("assets/fonts/Spectral-Regular.eot");
-  src: local("☺"), url("assets/fonts/Spectral-Regular.woff") format("woff"), url("assets/fonts/Spectral-Regular.ttf") format("truetype"), url("assets/fonts/Spectral-Regular.svg") format("svg");
+  src: url("../fonts/Spectral-Regular.eot");
+  src: local("☺"), url("../fonts/Spectral-Regular.woff") format("woff"), url("../fonts/Spectral-Regular.ttf") format("truetype"), url("../fonts/Spectral-Regular.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
